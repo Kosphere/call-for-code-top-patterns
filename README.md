@@ -76,7 +76,7 @@ click **demo.exe**.
 ![PICTURE](img/P5.PNG)
 * Visualization and prediction of regional emotional problems(under development)
 
-![PICTURE](img/P6.jpg)
+![PICTURE](img/P6.png)
 ## Feedback
 *Contact us through email*  2477802179@qq.com
 
